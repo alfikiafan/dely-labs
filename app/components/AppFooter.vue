@@ -26,7 +26,11 @@ const socials = [
 			<div class="lg:grid lg:grid-cols-3 lg:gap-8">
 				<div class="space-y-6">
 					<div class="flex items-center gap-3">
-						<img class="h-10 w-auto" src="/dely-labs.webp" alt="Dely Labs" />
+						<img
+							class="h-10 w-auto"
+							src="/dely-labs-inverted.webp"
+							alt="Dely Labs"
+						/>
 						<span class="text-white font-bold text-2xl tracking-tight"
 							>Dely Labs</span
 						>

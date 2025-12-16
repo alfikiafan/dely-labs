@@ -22,7 +22,7 @@ const switchLang = (code) => {
 				>
 					<img
 						class="h-8 w-auto transition-transform group-hover:scale-110 duration-300"
-						src="/dely-labs.webp"
+						src="/dely-labs-inverted.webp"
 						alt="Dely Labs"
 					/>
 					<span
@@ -40,11 +40,17 @@ const switchLang = (code) => {
 					{{ $t("nav.products") }}
 				</a>
 				<a
-					href="/#about"
+					href="/#manifesto"
+					class="font-semibold leading-6 text-white hover:text-primary-400 transition-colors"
+				>
+					{{ $t("nav.manifesto") }}
+				</a>
+				<NuxtLink
+					:to="localePath('/about')"
 					class="font-semibold leading-6 text-white hover:text-primary-400 transition-colors"
 				>
 					{{ $t("nav.about") }}
-				</a>
+				</NuxtLink>
 				<NuxtLink
 					:to="localePath('/contact')"
 					class="font-semibold leading-6 text-white hover:text-primary-400 transition-colors"

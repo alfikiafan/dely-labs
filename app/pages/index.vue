@@ -91,7 +91,7 @@ const products = [
 				</p>
 
 				<div
-					class="mt-10 flex items-center justify-center gap-x-6"
+					class="mt-10 flex items-center justify-center gap-x-4 sm:gap-x-6"
 					v-motion
 					:initial="{ opacity: 0, y: 20 }"
 					:enter="{
@@ -102,12 +102,12 @@ const products = [
 				>
 					<a
 						href="#products"
-						class="rounded-full bg-primary-600 px-8 py-3.5 font-semibold text-white shadow-sm hover:bg-primary-500 hover:shadow-[0_0_20px_rgba(217,70,239,0.5)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600 transition-all duration-300"
+						class="rounded-full bg-primary-600 px-4 sm:px-8 py-3 sm:py-3.5 font-semibold text-white shadow-sm hover:bg-primary-500 hover:shadow-[0_0_20px_rgba(217,70,239,0.5)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-600 transition-all duration-300"
 					>
 						{{ $t("hero.cta_primary") }}
 					</a>
 					<a
-						href="#about"
+						href="#manifesto"
 						class="font-semibold leading-6 text-white hover:text-primary-400 transition-colors"
 					>
 						{{ $t("hero.cta_secondary") }} <span aria-hidden="true">→</span>
@@ -160,7 +160,7 @@ const products = [
 		</div>
 	</div>
 	<section
-		id="about"
+		id="manifesto"
 		class="relative py-24 sm:py-32 bg-void-900 border-t border-white/5"
 	>
 		<div class="mx-auto max-w-7xl px-6 lg:px-8">

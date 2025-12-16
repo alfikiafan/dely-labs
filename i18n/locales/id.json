@@ -1,13 +1,14 @@
 {
 	"nav": {
-		"products": "Peralatan",
-		"about": "Kenapa Dely?",
+		"products": "Produk",
+		"manifesto": "Kenapa Dely?",
+		"about": "Tentang",
 		"contact": "Kontak"
 	},
 	"hero": {
 		"badge": "Produktivitas Tanpa Kompromi",
 		"title_start": "Sederhanakan",
-		"title_highlight": "Pekerjaan Harian",
+		"title_highlight": "Pekerjaanmu",
 		"subtitle": "Alat bantu esensial untuk teks, angka, dan PDF. Selesaikan tugas seketika langsung di browser—aman, cepat, dan tanpa ribet.",
 		"cta_primary": "Mulai Bekerja",
 		"cta_secondary": "Kenapa Dely?"
@@ -59,11 +60,11 @@
 	},
 	"footer": {
 		"tagline": "Alat sederhana yang menghargai privasi Anda.",
-		"products": "Alat",
+		"products": "Produk",
 		"legal": "Legal",
 		"social": "Sosial",
-		"privacy": "Privasi",
-		"terms": "Syarat",
+		"privacy": "Kebijakan Privasi",
+		"terms": "Ketentuan Layanan",
 		"copyright": "© 2025 Dely Labs."
 	},
 	"contact": {
@@ -74,7 +75,7 @@
 	"legal": {
 		"privacy_title": "Kebijakan Privasi",
 		"terms_title": "Syarat Layanan",
-		"last_updated": "Update: Des 2025"
+		"last_updated": "Terakhir diperbarui: Des 2025"
 	},
 	"error": {
 		"title": "Salah Jalan?",

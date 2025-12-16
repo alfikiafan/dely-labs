@@ -1,7 +1,8 @@
 {
 	"nav": {
 		"products": "Tools",
-		"about": "Why Dely?",
+		"manifesto": "Why Dely?",
+		"about": "About",
 		"contact": "Contact"
 	},
 	"hero": {
@@ -62,8 +63,8 @@
 		"products": "Tools",
 		"legal": "Legal",
 		"social": "Connect",
-		"privacy": "Privacy",
-		"terms": "Terms",
+		"privacy": "Privacy Policy",
+		"terms": "Terms of Service",
 		"copyright": "© 2025 Dely Labs."
 	},
 	"contact": {
