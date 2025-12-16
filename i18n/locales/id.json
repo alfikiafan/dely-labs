@@ -1,0 +1,84 @@
+{
+	"nav": {
+		"products": "Peralatan",
+		"about": "Kenapa Dely?",
+		"contact": "Kontak"
+	},
+	"hero": {
+		"badge": "Produktivitas Tanpa Kompromi",
+		"title_start": "Sederhanakan",
+		"title_highlight": "Pekerjaan Harian",
+		"subtitle": "Alat bantu esensial untuk teks, angka, dan PDF. Selesaikan tugas seketika langsung di browser—aman, cepat, dan tanpa ribet.",
+		"cta_primary": "Mulai Bekerja",
+		"cta_secondary": "Kenapa Dely?"
+	},
+	"products": {
+		"section_title": "Produk Kami",
+		"section_subtitle": "Utilitas gratis dan fokus. Tanpa iklan, tanpa daftar akun, tanpa upload ke server.",
+		"kit": {
+			"title": "Dely Kit",
+			"desc": "Rapikan teks berantakan secara instan. Ubah huruf besar/kecil dan hitung kata. Cocok untuk penulis dan editor.",
+			"action": "Buka Kit"
+		},
+		"compare": {
+			"title": "Dely Compare",
+			"desc": "Cek kemiripan antara dua teks atau kode dengan aman. Rahasia Anda tidak pernah keluar dari perangkat.",
+			"action": "Bandingkan Teks"
+		},
+		"terbilang": {
+			"title": "Dely Terbilang",
+			"desc": "Ubah angka menjadi kalimat terbilang untuk kuitansi dan faktur. Akurat untuk tugas admin dan keuangan.",
+			"action": "Ubah Angka"
+		},
+		"sign": {
+			"title": "Dely Sign",
+			"desc": "Tanda tangan, gabung, dan pisah PDF langsung di handphone Anda. Tidak perlu upload, aman untuk dokumen rahasia.",
+			"action": "Buka Aplikasi"
+		}
+	},
+	"manifesto": {
+		"badge": "Filosofi Kami",
+		"title": "Kepercayaan Adalah Harga yang Mahal",
+		"subtitle": "Menyimpan data Anda itu mahal dan berisiko. Jadi kami membuat alat yang tidak memerlukannya.",
+		"privacy": {
+			"title": "Tanpa Upload",
+			"desc": "Kami benar-benar tidak bisa melihat file Anda. Semuanya diproses oleh browser di laptop/HP Anda sendiri."
+		},
+		"speed": {
+			"title": "Kecepatan Instan",
+			"desc": "Tidak perlu menunggu proses upload/download. Bekerja secepat kemampuan perangkat Anda."
+		},
+		"simplicity": {
+			"title": "Hanya Alat",
+			"desc": "Kami benci kerumitan. Tanpa langkah ribet. Buka dan pakai."
+		},
+		"open": {
+			"title": "Transparan",
+			"desc": "Kami terbuka mengenai cara kerja teknologi kami. Tidak ada trik tersembunyi di belakang layar."
+		}
+	},
+	"footer": {
+		"tagline": "Alat sederhana yang menghargai privasi Anda.",
+		"products": "Alat",
+		"legal": "Legal",
+		"social": "Sosial",
+		"privacy": "Privasi",
+		"terms": "Syarat",
+		"copyright": "© 2025 Dely Labs."
+	},
+	"contact": {
+		"title": "Hubungi Kami",
+		"subtitle": "Menemukan bug? Atau sekadar ingin menyapa? Email kami langsung.",
+		"response_time": "Bukan bot. Manusia asli yang akan membalas."
+	},
+	"legal": {
+		"privacy_title": "Kebijakan Privasi",
+		"terms_title": "Syarat Layanan",
+		"last_updated": "Update: Des 2025"
+	},
+	"error": {
+		"title": "Salah Jalan?",
+		"desc": "Halaman ini tidak ada. Mungkin sudah dipindahkan, atau Anda menjelajah terlalu jauh.",
+		"back": "Kembali ke Depan"
+	}
+}

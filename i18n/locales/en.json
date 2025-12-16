@@ -1,0 +1,84 @@
+{
+	"nav": {
+		"products": "Tools",
+		"about": "Why Dely?",
+		"contact": "Contact"
+	},
+	"hero": {
+		"badge": "Privacy-First Productivity",
+		"title_start": "Streamline Your",
+		"title_highlight": "Daily Workflow",
+		"subtitle": "Powerful tools for text, numbers, and PDFs. Get your work done instantly in the browser—securely and without interruptions.",
+		"cta_primary": "Explore Tools",
+		"cta_secondary": "Why use Dely?"
+	},
+	"products": {
+		"section_title": "Our Product",
+		"section_subtitle": "Free, focused utilities. No ads, no sign-ups, no server uploads.",
+		"kit": {
+			"title": "Dely Kit",
+			"desc": "Fix messy text instantly. Case converter, word counter, and cleaner. Perfect for writers and editors.",
+			"action": "Open Kit"
+		},
+		"compare": {
+			"title": "Dely Compare",
+			"desc": "Check similarities between two texts or codes safely. Your secrets never leave your device.",
+			"action": "Compare Text"
+		},
+		"terbilang": {
+			"title": "Dely Terbilang",
+			"desc": "Convert numbers to words for invoices and receipts. Accurate for finance and admin tasks.",
+			"action": "Convert Number"
+		},
+		"sign": {
+			"title": "Dely Sign",
+			"desc": "Sign, merge, and split PDFs directly on your handphone. No loading bars, no privacy risks.",
+			"action": "Open App"
+		}
+	},
+	"manifesto": {
+		"badge": "The Philosophy",
+		"title": "Trust is Expensive",
+		"subtitle": "Storing your data is expensive and risky. So we built tools that don't need to.",
+		"privacy": {
+			"title": "Zero Knowledge",
+			"desc": "We literally can't see your files. The magic happens inside your own browser, not our servers."
+		},
+		"speed": {
+			"title": "Instant Speed",
+			"desc": "No upload/download waiting time. It works as fast as your device allows."
+		},
+		"simplicity": {
+			"title": "Just Tools",
+			"desc": "We hate clutter. No complicated steps. Just open and use."
+		},
+		"open": {
+			"title": "Transparent",
+			"desc": "We are open about how our technology works. No hidden tricks under the hood."
+		}
+	},
+	"footer": {
+		"tagline": "Simple tools that respect your privacy.",
+		"products": "Tools",
+		"legal": "Legal",
+		"social": "Connect",
+		"privacy": "Privacy",
+		"terms": "Terms",
+		"copyright": "© 2025 Dely Labs."
+	},
+	"contact": {
+		"title": "Get in Touch",
+		"subtitle": "Found a bug? Or just want to say hi? Email us directly.",
+		"response_time": "No bots. Actual human will reply."
+	},
+	"legal": {
+		"privacy_title": "Privacy Policy",
+		"terms_title": "Terms of Service",
+		"last_updated": "Updated: Dec 2025"
+	},
+	"error": {
+		"title": "Wrong Turn?",
+		"desc": "This page doesn't exist. Maybe it was moved, or maybe you're exploring too far.",
+		"back": "Back to Home"
+	}
+}
