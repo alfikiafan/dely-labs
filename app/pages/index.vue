@@ -17,6 +17,13 @@ const auroraStyle = {
 
 const products = [
 	{
+		key: "pdf",
+		href: "https://delypdf.com",
+		trailingSlash: true,
+		icon: "/dely-pdf.webp",
+		color: "#00A8CC",
+	},
+	{
 		key: "kit",
 		href: "https://kit.delylabs.com",
 		icon: "/dely-kit.webp",
@@ -148,9 +155,10 @@ const products = [
 					:title="$t(`products.${prod.key}.title`)"
 					:description="$t(`products.${prod.key}.desc`)"
 					:action="$t(`products.${prod.key}.action`)"
-					:href="`${prod.href}/${locale}`"
+					:href="`${prod.href}/${locale}${prod.trailingSlash ? '/' : ''}`"
 					:icon="prod.icon"
 					:color="prod.color"
+					class="lg:first:col-span-2"
 					v-motion-slide-visible-once-bottom
 				/>
 			</div>

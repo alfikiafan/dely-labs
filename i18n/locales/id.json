@@ -18,7 +18,7 @@
 		"section_subtitle": "Utilitas gratis dan fokus. Tanpa iklan, tanpa daftar akun, tanpa upload ke server.",
 		"kit": {
 			"title": "Dely Kit",
-			"desc": "Rapikan teks berantakan secara instan. Ubah huruf besar/kecil dan hitung kata. Cocok untuk penulis dan editor.",
+			"desc": "Rapikan teks berantakan secara instan. Ubah huruf besar/kecil, bersihkan, urutkan, dan hitung kata. Cocok untuk penulis dan editor.",
 			"action": "Buka Kit"
 		},
 		"compare": {
@@ -33,8 +33,13 @@
 		},
 		"sign": {
 			"title": "Dely Sign",
-			"desc": "Tanda tangan, gabung, dan pisah PDF langsung di handphone Anda. Tidak perlu upload, aman untuk dokumen rahasia.",
+			"desc": "Tanda tangani dokumen PDF langsung di browser. Tanpa upload, tanpa risiko privasi. Cocok untuk faktur, surat lamaran, dan dokumen administrasi.",
 			"action": "Buka Aplikasi"
+		},
+		"pdf": {
+			"title": "Dely PDF",
+			"desc": "Edit, gabung, kompres, dan puluhan alat PDF lainnya. Gratis, tanpa batas, dan diproses langsung di browser.",
+			"action": "Buka Alat PDF"
 		}
 	},
 	"manifesto": {
@@ -65,7 +70,7 @@
 		"social": "Sosial",
 		"privacy": "Kebijakan Privasi",
 		"terms": "Ketentuan Layanan",
-		"copyright": "© 2025 Dely Labs."
+		"copyright": "© 2026 Dely Labs."
 	},
 	"contact": {
 		"title": "Hubungi Kami",

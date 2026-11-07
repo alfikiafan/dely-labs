@@ -3,6 +3,7 @@ const localePath = useLocalePath();
 const { locale } = useI18n();
 
 const products = [
+	{ name: "Dely PDF", href: "https://delypdf.com", trailingSlash: true },
 	{ name: "Dely Kit", href: "https://kit.delylabs.com" },
 	{ name: "Dely Compare", href: "https://compare.delylabs.com" },
 	{ name: "Dely Terbilang", href: "https://terbilang.delylabs.com" },
@@ -60,7 +61,7 @@ const socials = [
 						<ul role="list" class="mt-6 space-y-4">
 							<li v-for="item in products" :key="item.name">
 								<a
-									:href="`${item.href}/${locale}`"
+									:href="`${item.href}/${locale}${item.trailingSlash ? '/' : ''}`"
 									class="text-base leading-6 text-gray-400 hover:text-primary-400 transition-colors"
 								>
 									{{ item.name }}

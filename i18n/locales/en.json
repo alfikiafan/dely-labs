@@ -14,11 +14,11 @@
 		"cta_secondary": "Why use Dely?"
 	},
 	"products": {
-		"section_title": "Our Product",
+		"section_title": "Our Products",
 		"section_subtitle": "Free, focused utilities. No ads, no sign-ups, no server uploads.",
 		"kit": {
 			"title": "Dely Kit",
-			"desc": "Fix messy text instantly. Case converter, word counter, and cleaner. Perfect for writers and editors.",
+			"desc": "Fix messy text instantly. Case converter, cleaner, sorter, and word counter. Perfect for writers and editors.",
 			"action": "Open Kit"
 		},
 		"compare": {
@@ -33,8 +33,13 @@
 		},
 		"sign": {
 			"title": "Dely Sign",
-			"desc": "Sign, merge, and split PDFs directly on your handphone. No loading bars, no privacy risks.",
+			"desc": "Sign PDF documents right in your browser. No uploads, no privacy risks. Great for invoices, cover letters, and admin documents.",
 			"action": "Open App"
+		},
+		"pdf": {
+			"title": "Dely PDF",
+			"desc": "Edit, merge, compress, and dozens of other PDF tools. Free, unlimited, and processed in your browser.",
+			"action": "Open PDF Tools"
 		}
 	},
 	"manifesto": {
@@ -65,7 +70,7 @@
 		"social": "Connect",
 		"privacy": "Privacy Policy",
 		"terms": "Terms of Service",
-		"copyright": "© 2025 Dely Labs."
+		"copyright": "© 2026 Dely Labs."
 	},
 	"contact": {
 		"title": "Get in Touch",
