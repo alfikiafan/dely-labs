@@ -81,5 +81,19 @@
 		"title": "Salah Jalan?",
 		"desc": "Halaman ini tidak ada. Mungkin sudah dipindahkan, atau Anda menjelajah terlalu jauh.",
 		"back": "Kembali ke Depan"
+	},
+	"meta": {
+		"about": {
+			"title": "Tentang Kami",
+			"description": "Cerita di balik Dely Labs dan alasan kami membuat alat yang memproses file Anda langsung di browser."
+		},
+		"privacy": {
+			"title": "Kebijakan Privasi",
+			"description": "Cara Dely Labs menangani data Anda. File diproses di browser dan tidak pernah diunggah ke server kami."
+		},
+		"terms": {
+			"title": "Ketentuan Layanan",
+			"description": "Ketentuan penggunaan Dely Labs dan alat-alat gratisnya yang berjalan di browser."
+		}
 	}
 }

@@ -1,8 +1,15 @@
 <script setup>
 import { useI18n } from "vue-i18n";
 
-const { locale } = useI18n();
+const { locale, t } = useI18n();
 definePageMeta({ layout: "default" });
+
+useSeoMeta({
+	title: () => t("meta.terms.title"),
+	ogTitle: () => `${t("meta.terms.title")} - Dely Labs`,
+	description: () => t("meta.terms.description"),
+	ogDescription: () => t("meta.terms.description"),
+});
 
 const lastUpdated = "16 Desember 2025";
 </script>

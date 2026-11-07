@@ -1,5 +1,6 @@
 <script setup>
 const localePath = useLocalePath();
+const { locale } = useI18n();
 
 const products = [
 	{ name: "Dely Kit", href: "https://kit.delylabs.com" },
@@ -59,7 +60,7 @@ const socials = [
 						<ul role="list" class="mt-6 space-y-4">
 							<li v-for="item in products" :key="item.name">
 								<a
-									:href="item.href"
+									:href="`${item.href}/${locale}`"
 									class="text-base leading-6 text-gray-400 hover:text-primary-400 transition-colors"
 								>
 									{{ item.name }}

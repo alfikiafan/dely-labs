@@ -12,7 +12,7 @@ export default defineNuxtConfig({
 	],
 
 	i18n: {
-		baseUrl: "http://localhost:3000",
+		baseUrl: "https://delylabs.com",
 		locales: [
 			{
 				code: "en",

@@ -1,6 +1,13 @@
 <script setup>
+const { locale, t } = useI18n();
+
 definePageMeta({
 	layout: "default",
+});
+
+useSeoMeta({
+	description: () => t("hero.subtitle"),
+	ogDescription: () => t("hero.subtitle"),
 });
 
 const auroraStyle = {
@@ -141,7 +148,7 @@ const products = [
 					:title="$t(`products.${prod.key}.title`)"
 					:description="$t(`products.${prod.key}.desc`)"
 					:action="$t(`products.${prod.key}.action`)"
-					:href="prod.href"
+					:href="`${prod.href}/${locale}`"
 					:icon="prod.icon"
 					:color="prod.color"
 					v-motion-slide-visible-once-bottom

@@ -81,5 +81,19 @@
 		"title": "Wrong Turn?",
 		"desc": "This page doesn't exist. Maybe it was moved, or maybe you're exploring too far.",
 		"back": "Back to Home"
+	},
+	"meta": {
+		"about": {
+			"title": "About Us",
+			"description": "The story behind Dely Labs and why we build tools that process your files right in your browser."
+		},
+		"privacy": {
+			"title": "Privacy Policy",
+			"description": "How Dely Labs handles your data. Files are processed in your browser and never uploaded to our servers."
+		},
+		"terms": {
+			"title": "Terms of Service",
+			"description": "The terms for using Dely Labs and its free browser-based tools."
+		}
 	}
 }

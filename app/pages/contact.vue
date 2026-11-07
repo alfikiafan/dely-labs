@@ -1,6 +1,15 @@
 <script setup>
+const { t } = useI18n();
+
 definePageMeta({
 	layout: "default",
+});
+
+useSeoMeta({
+	title: () => t("contact.title"),
+	ogTitle: () => `${t("contact.title")} - Dely Labs`,
+	description: () => t("contact.subtitle"),
+	ogDescription: () => t("contact.subtitle"),
 });
 </script>
 

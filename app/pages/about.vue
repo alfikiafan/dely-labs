@@ -1,9 +1,16 @@
 <script setup>
 import { useI18n } from "vue-i18n";
 
-const { locale } = useI18n();
+const { locale, t } = useI18n();
 
 definePageMeta({ layout: "default" });
+
+useSeoMeta({
+	title: () => t("meta.about.title"),
+	ogTitle: () => `${t("meta.about.title")} - Dely Labs`,
+	description: () => t("meta.about.description"),
+	ogDescription: () => t("meta.about.description"),
+});
 
 const founderName = "Alfiki Diastama";
 </script>

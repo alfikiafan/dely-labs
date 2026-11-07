@@ -2,7 +2,7 @@
 const siteName = "Dely Labs";
 const siteDesc =
 	"Secure, client-side first digital utilities. From PDF signing to data conversion, processed directly in your browser.";
-const siteImage = "/dely-labs-og.png";
+const siteImage = "https://delylabs.com/dely-labs-og.png";
 
 useSeoMeta({
 	title: "Digital Tools Ecosystem",
